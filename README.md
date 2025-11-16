@@ -58,8 +58,8 @@ I focus on creating clean, simple, and practical web tools. Right now, I'm stren
 ## 📫 Connect With Me
 
 **Twitter/X:** @TheVarian_t
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheVarian_t)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-oga-2a8ba21ba/)
+[![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheVarian_t)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-oga-2a8ba21ba/)
 
 
 ---
