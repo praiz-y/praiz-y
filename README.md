@@ -57,10 +57,13 @@ I focus on creating clean, simple, and practical web tools. Right now, I'm stren
 
 ## 📫 Connect With Me
 
-**Twitter/X:** @TheVarian_t
-[![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheVarian_t)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-oga-2a8ba21ba/)
 
+[![website](./img/twitter-light.svg)](https://x.com/TheVarian_t#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/TheVarian_t#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/praise-oga-2a8ba21ba/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/https://www.linkedin.com/in/praise-oga-2a8ba21ba/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ---
 Thanks for visiting my profile. I’m learning, building, and steadily improving.
