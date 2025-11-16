@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 <!--
 **praiz-y/praiz-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Praise AKA Variant 👋
+# Hi there, I'm Praise AKA Variant 👋
 
 Web Developer • Web3 Enthusiast • Community Builder
 
